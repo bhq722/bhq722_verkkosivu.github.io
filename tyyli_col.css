@@ -1,0 +1,92 @@
+h1 {
+
+    text-align: center;
+    font-size: 40px;
+    color: rgb(60, 60, 60);
+    background-color: rgb(212, 212, 212);
+    letter-spacing: 5px;
+    text-shadow: 2px 4px 4px rgba(71, 71, 71, 0.6);
+    border: 2px solid rgb(0, 0, 0);
+
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 30px;
+
+}
+
+.navg {
+
+    border: 2px solid rgb(60, 60, 60);
+    background-color: rgb(212, 212, 212);
+
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-right: 25px;
+    margin-left: 0px;
+
+    padding-top: 20px;
+    padding-bottom: 250px;
+    padding-right: 125px;
+    padding-left: 20px;
+
+}
+
+.navg_small {
+
+    border: 2px solid rgb(60, 60, 60);
+    background-color: rgb(212, 212, 212);
+    padding: 10px;
+}
+
+.navg_small_text {
+
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    text-shadow: 2px 4px 4px rgba(71, 71, 71, 0.6);
+
+}
+
+.tiny {
+
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+
+}
+
+.navg_text {
+
+    text-decoration: none;
+    position: absolute;
+    left: 2%;
+    text-shadow: 2px 4px 4px rgba(71, 71, 71, 0.6);
+
+}
+
+.about_text {
+
+    margin-left: 10px;
+
+}
+
+img {
+
+
+    border: 1px solid #000000;
+    background-color: rgb(212, 212, 212);
+    box-shadow: 0 0 10px 3px rgba(99, 99, 99, 0.5);
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.gallery {
+
+    margin-left: 30px;
+
+}
+
